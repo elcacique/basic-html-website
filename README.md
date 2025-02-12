@@ -7,3 +7,6 @@
 ```
 git clone git@github.com:elcacique/basic-html-website.git
 ```
+
+## License
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
